@@ -1,3 +1,11 @@
+## 0.1.2 (December 27, 2016)
+  - Merge update to readme.md.
+  - Update readme.md file.
+  - Update readme.md file.
+  - Update Readme.md file.
+  - Update Readme.md file.
+  - update Readme.md file.
+
 ## 0.1.1 (December 27, 2016)
   - release email template init components.
 
