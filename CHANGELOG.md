@@ -1,3 +1,6 @@
+## 0.1.1 (December 27, 2016)
+  - release email template init components.
+
 ## 0.1.0 (December 27, 2016)
   - email template initials
   - add footer, target some edge cases.
